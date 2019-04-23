@@ -1,0 +1,10 @@
+{
+	"debug": {
+		"httpPort": 8080,
+		"registerUrl": "http://10.0.3.2:9008/proxy/register"
+	},
+	"release": {
+		"httpPort": 8080,
+		"registerUrl": "http://10.0.3.2:9008/proxy/register"
+	}
+}
